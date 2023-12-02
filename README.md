@@ -3,7 +3,7 @@ Goodboy Galaxy GBA Demo for the PS Vita
 
 Demo can be downloaded here: https://goodboygalaxy.itch.io/goodboy-galaxy-demo
 
-Games must be in the following folder: ux0:Roms/GBA/goodboy-demo-en.gba
+Game must be in the following folder: ux0:Roms/GBA/goodboy-demo-en.gba
 
 <!-- LiveArea -->
 <p align="center">
