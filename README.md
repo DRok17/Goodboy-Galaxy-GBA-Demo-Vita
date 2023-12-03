@@ -8,7 +8,7 @@ Play the highly acclaimed GBA Demo of Goodboy Galaxy on your PS Vita with the po
 - File Path: ux0:Roms/GBA/goodboy-demo-en.gba
 
 ### Credits:
-- The creators Rik Nicol and Jeremy Clarke.
+- The creators [Rik Nicol and Jeremy Clarke](https://goodboygalaxy.itch.io/goodboy-galaxy-gba)
 - RetroArch
 
 <!-- LiveArea -->
