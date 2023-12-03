@@ -2,6 +2,8 @@
 
 Play the highly acclaimed GBA Demo of Goodboy Galaxy on your PS Vita with the power of RetroArch and VBANext core.
 
+Images used for LiveArea were modified by me.
+
 ### Requirements:
 - ROM: https://goodboygalaxy.itch.io/goodboy-galaxy-demo
 - RetroArch: http://buildbot.libretro.com/ - For the latest stable or nightly builds.
